@@ -26,3 +26,6 @@ It is a full-stack that provides  owners with a comprehensive solution to manage
 1. npm install 
 2. node server.js
 3. go to localhost:3000
+
+## demo cred:
+admin@admin.com - 12345678

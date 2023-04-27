@@ -29,7 +29,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "buildandinstall": "yarn install && yarn build"
+    "buildandinstall": "yarn install -f && yarn build"
   },
   "eslintConfig": {
     "extends": [

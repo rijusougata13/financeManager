@@ -1,0 +1,45 @@
+.DashboardPage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 5em; 
+  width: 100%;
+}
+
+.DashboardPage > div > h1 {
+  text-align: left;
+  font-size: 3rem;
+  font-weight: 200;
+  padding: 0;
+}
+
+.DashboardPage > div > h2 {
+  font-size: 2rem;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 1000px) {
+  .DashboardPage {
+    margin: 5em auto;
+    width: 60vw;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .DashboardPage {
+    margin: 7em auto;
+    width: 90vw;
+  }
+
+  .DashboardPage > div > h1 {
+    font-size: 0.8rem;
+  }
+
+  .DashboardPage > div > h2 {
+    font-size: 1.8rem;
+    font-weight: 200;
+  }
+}

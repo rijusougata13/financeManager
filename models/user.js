@@ -17,7 +17,7 @@ const userSchema = new Schema(
     },
     maxExpanse:{
       type: Number,
-      required: true,
+      required: false,
     },
     password: {
       type: String,

@@ -2,7 +2,8 @@
 
 It is a full-stack that provides  owners with a comprehensive solution to manage their incomes and expenses. Handle tax season like a boss with Ledgerly.
 
-
+#deployed link
+https://financemanager-86z8.onrender.com/
 
 ## Features
 1. User Accounts: Secure registration and sign-in system
